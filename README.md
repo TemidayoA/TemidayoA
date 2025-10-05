@@ -37,9 +37,9 @@ I build machine learning systems that power lending and payment decisions for mi
 
 ### 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/temidayo-akindahunsi/
-- Medium: [@Raymiah]
-- X: [@Ray_brix]
-- Email: [temidayoakindahunsi22@gmail.com]
+- Medium: @Ray_Brix
+- X: @Ray_Brix
+- Email: temidayoakindahunsi22@gmail.com
 
 ---
 
