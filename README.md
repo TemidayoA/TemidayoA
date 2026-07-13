@@ -43,4 +43,23 @@ I build machine learning systems that power lending and payment decisions for mi
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TemidayoA&theme=github" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TemidayoA&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TemidayoA&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TemidayoA&theme=github" width="32%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TemidayoA&theme=github&utcOffset=0" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=TemidayoA&theme=default" width="48%" />
+</div>
+
+---
+
 💬 *"Building ML systems that make financial services more accessible and safer for everyone"*
