@@ -60,6 +60,12 @@ I build machine learning systems that power lending and payment decisions for mi
   <img src="https://streak-stats.demolab.com/?user=TemidayoA&theme=default" width="48%" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ATemidayoA+is%3Amerged+-user%3ATemidayoA">
+    <img src="./assets/contrib-stars.svg" width="48%" alt="Open-source projects with merged PRs from TemidayoA" />
+  </a>
+</div>
+
 ---
 
 💬 *"Building ML systems that make financial services more accessible and safer for everyone"*

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="296" viewBox="0 0 500 296">
+<style>
+.title { font: 600 22px 'Segoe UI', Ubuntu, sans-serif; fill: #0366d6; }
+.big { font: 700 26px 'Segoe UI', Ubuntu, sans-serif; fill: #24292e; }
+.sub { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #586069; }
+.repo { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #586069; }
+.stars { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #24292e; }
+</style>
+<rect x="0.5" y="0.5" width="499" height="295" rx="4.5" fill="#ffffff" stroke="#e1e4e8"/>
+<text x="30" y="40" class="title">Open-Source Contributions</text>
+<text x="30" y="76" class="big">7 projects · 53.7k combined stars</text>
+<text x="30" y="100" class="sub">Projects with a merged PR from @TemidayoA; stars are the projects' own</text>
+<text x="30" y="128" class="repo">osquery/osquery</text><text x="470" y="128" class="stars" text-anchor="end">★ 23.6k</text><text x="30" y="150" class="repo">fivetran/great_expectations</text><text x="470" y="150" class="stars" text-anchor="end">★ 11.9k</text><text x="30" y="172" class="repo">interpretml/interpret</text><text x="470" y="172" class="stars" text-anchor="end">★ 7.0k</text><text x="30" y="194" class="repo">online-ml/river</text><text x="470" y="194" class="stars" text-anchor="end">★ 6.1k</text><text x="30" y="216" class="repo">fairlearn/fairlearn</text><text x="470" y="216" class="stars" text-anchor="end">★ 2.3k</text><text x="30" y="238" class="repo">feature-engine/feature_engine</text><text x="470" y="238" class="stars" text-anchor="end">★ 2.3k</text><text x="30" y="260" class="repo">Ciiceronee/Ciiceronee</text><text x="470" y="260" class="stars" text-anchor="end">★ 544</text>
+</svg>
